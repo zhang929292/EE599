@@ -1,4 +1,4 @@
-# Find Max
+# Find Median
 > Finds the maximum value in a C++ Vector
 
 ## Installation
